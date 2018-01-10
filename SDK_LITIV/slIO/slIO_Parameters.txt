@@ -1,0 +1,11 @@
+Entrées:
+
+- Images (fichier -> OpenCV)
+- Vidéo (fichier -> OpenCV)
+- Vidéo (caméra)
+
+- Caméras:
+	- Sony IIDC: 910 (7.5 fps, 1280x1024) et 710 (30 fps, 1024x768, bayer brut)
+	- Ipela rz25n, rz50n, cs11 et cs50n
+	- Flir A10 (30 fps, 320x240, infrarouge)
+

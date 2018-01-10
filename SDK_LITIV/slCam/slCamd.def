@@ -1,0 +1,6 @@
+; slCam.def : Declares the module parameters for the DLL.
+
+LIBRARY      "slCam22d"
+
+EXPORTS
+    ; Explicit exports can go here

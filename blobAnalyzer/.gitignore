@@ -1,0 +1,8 @@
+3rdparty
+Debug
+Release
+*.sln
+*.suo
+*.doc
+*.vcxproj
+*.user
